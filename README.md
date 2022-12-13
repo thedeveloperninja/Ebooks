@@ -1,2 +1,2 @@
-# javaEbooks
-This Repository contains Java Ebook
+# Ebooks
+This Repository contains Ebooks
